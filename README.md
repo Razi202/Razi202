@@ -51,7 +51,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
 
-<h2 align="left">Frameworks</h2>
+<h2 align="left">Frameworks and libraries</h2>
 
 ###
 <div align="left">
@@ -60,6 +60,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"  />
   <img src="https://github.com/Razi202/Razi202/blob/main/imgs/scikit.svg" height="40" width="52" alt="scikit logo"  />
   <img src="https://github.com/Razi202/Razi202/blob/main/imgs/matplotlib.svg" height="40" width="52" alt="matplotlib logo"  />
+  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/seaborn.svg" height="40" width="52" alt="seaborn logo"  />
 </div>
 
 ###
