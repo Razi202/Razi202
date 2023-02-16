@@ -58,7 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"  />
-  <img src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg" height="40" width="52" alt="pytorch logo"  />
 </div>
 
 ###
