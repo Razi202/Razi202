@@ -59,6 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"  />
   <img src="https://github.com/Razi202/Razi202/blob/main/imgs/scikit.svg" height="40" width="52" alt="scikit logo"  />
+  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/matplotlib.svg" height="40" width="52" alt="matplotlib logo"  />
 </div>
 
 ###
