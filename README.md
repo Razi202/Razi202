@@ -47,7 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rstudio/rstudio-original.svg" height="40" width="52" alt="rstudio logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original.svg" height="40" width="52" alt="rstudio logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original.svg" height="40" width="52" alt="anaconda logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
 
 <h2 align="left">Frameworks</h2>
