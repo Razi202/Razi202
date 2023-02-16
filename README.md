@@ -27,13 +27,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="r logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" width="52" alt="r logo" alt="r logo" title="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" alt="c logo" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo" title="JAVA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" title="CSS" />
 </div>
 
 ###
@@ -42,27 +42,27 @@
 
 ###
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rstudio/rstudio-original.svg" height="40" width="52" alt="rstudio logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original.svg" height="40" width="52" alt="anaconda logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo" title="JUPYTER" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo" title="VSCODE" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo" title="Visual Studio" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo" title="MongoDB" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rstudio/rstudio-original.svg" height="40" width="52" alt="rstudio logo" title="RStudio" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original.svg" height="40" width="52" alt="anaconda logo" title="Anaconda" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo" title="MySQL" />
 </div>
 
 <h2 align="left">Frameworks and libraries</h2>
 
 ###
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo"  />
-  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/scikit.svg" height="40" width="52" alt="scikit logo"  />
-  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/matplotlib.svg" height="40" width="52" alt="matplotlib logo"  />
-  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/seaborn.svg" height="40" width="52" alt="seaborn logo"  />
-  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/plotly.svg" height="40" width="52" alt="plotly logo"  />
-  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/hadoop.svg" height="40" width="52" alt="hadoop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo" title="Numpy" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch logo" title="PyTorch" />
+  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/scikit.svg" height="40" width="52" alt="scikit logo" title="Scikit-Sklearn" />
+  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/matplotlib.svg" height="40" width="52" alt="matplotlib logo" title="Matplotlib" />
+  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/seaborn.svg" height="40" width="52" alt="seaborn logo" title="Seaborn" />
+  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/plotly.svg" height="40" width="52" alt="plotly logo" title="Plotly" />
+  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/hadoop.svg" height="40" width="52" alt="hadoop logo" title="Hadoop" />
 </div>
 
 ###
