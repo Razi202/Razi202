@@ -61,6 +61,7 @@
   <img src="https://github.com/Razi202/Razi202/blob/main/imgs/scikit.svg" height="40" width="52" alt="scikit logo"  />
   <img src="https://github.com/Razi202/Razi202/blob/main/imgs/matplotlib.svg" height="40" width="52" alt="matplotlib logo"  />
   <img src="https://github.com/Razi202/Razi202/blob/main/imgs/seaborn.svg" height="40" width="52" alt="seaborn logo"  />
+  <img src="https://github.com/Razi202/Razi202/blob/main/imgs/seaborn.svg" height="40" width="52" alt="plotly logo"  />
 </div>
 
 ###
